@@ -1,0 +1,6 @@
+web\model\BeerDTO.class
+web\services\BeerService.class
+web\controller\BeerController.class
+web\model\BeerDTO$BeerDTOBuilder.class
+web\services\BeerServiceImpl.class
+com\himanshu\msscbrewery\MsscBreweryApplication.class
